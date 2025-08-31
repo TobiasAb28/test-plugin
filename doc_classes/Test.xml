@@ -21,13 +21,13 @@
 		<method name="say_hello">
 			<return type="void" />
 			<description>
-			My custom method
+				My custom method
 			</description>
 		</method>
 	</methods>
 	<members>
 		<member name="my_data" type="String" setter="set_my_data" getter="get_my_data" default="&quot;Seguime la corriente&quot;">
-		This is my property
+			This is my property
 		</member>
 	</members>
 </class>
